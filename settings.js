@@ -43,7 +43,7 @@ global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
 
 global.premium = ['🖤Black Panther Bot🖤']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+94770704840'
 
 global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
 
